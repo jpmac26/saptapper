@@ -4,7 +4,7 @@
 
 #include <stdint.h>
 #include <memory.h>
-
+#include <stdio.h>
 #include <iostream>
 #include <string>
 #include <stdexcept>
